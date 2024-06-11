@@ -1,8 +1,0 @@
-{
-    "smartsheetAccessToken": "mCV8xIWq5H4IcJmtjABxKDVEYxBrbAeFcZUjV",
-    "logLevel": "info",
-
-    "sheetId": 8199960751198084,
-    "callbackUrl": "http://52.66.79.245/",
-    "webhookName": "Test_webhook"
-}
